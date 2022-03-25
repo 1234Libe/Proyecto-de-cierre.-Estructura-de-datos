@@ -1,0 +1,27 @@
+C:\Users\Dell\source\repos\Algoritmo Disjktra\Algoritmo Disjktra\bin\Debug\netcoreapp3.1\Algoritmo Disjktra.exe
+C:\Users\Dell\source\repos\Algoritmo Disjktra\Algoritmo Disjktra\bin\Debug\netcoreapp3.1\Algoritmo Disjktra.deps.json
+C:\Users\Dell\source\repos\Algoritmo Disjktra\Algoritmo Disjktra\bin\Debug\netcoreapp3.1\Algoritmo Disjktra.runtimeconfig.json
+C:\Users\Dell\source\repos\Algoritmo Disjktra\Algoritmo Disjktra\bin\Debug\netcoreapp3.1\Algoritmo Disjktra.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Algoritmo Disjktra\Algoritmo Disjktra\bin\Debug\netcoreapp3.1\Algoritmo Disjktra.dll
+C:\Users\Dell\source\repos\Algoritmo Disjktra\Algoritmo Disjktra\bin\Debug\netcoreapp3.1\Algoritmo Disjktra.pdb
+C:\Users\Dell\source\repos\Algoritmo Disjktra\Algoritmo Disjktra\obj\Debug\netcoreapp3.1\Algoritmo Disjktra.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Algoritmo Disjktra\Algoritmo Disjktra\obj\Debug\netcoreapp3.1\Algoritmo Disjktra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Algoritmo Disjktra\Algoritmo Disjktra\obj\Debug\netcoreapp3.1\Algoritmo Disjktra.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Algoritmo Disjktra\Algoritmo Disjktra\obj\Debug\netcoreapp3.1\Algoritmo Disjktra.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Algoritmo Disjktra\Algoritmo Disjktra\obj\Debug\netcoreapp3.1\Algoritmo Disjktra.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Algoritmo Disjktra\Algoritmo Disjktra\obj\Debug\netcoreapp3.1\Algoritmo Disjktra.dll
+C:\Users\Dell\source\repos\Algoritmo Disjktra\Algoritmo Disjktra\obj\Debug\netcoreapp3.1\Algoritmo Disjktra.pdb
+C:\Users\Dell\source\repos\Algoritmo Disjktra\Algoritmo Disjktra\obj\Debug\netcoreapp3.1\Algoritmo Disjktra.genruntimeconfig.cache
+C:\Users\Elibeth Tapia Cruz\Desktop\Algoritmo Disjktra\Algoritmo Disjktra\bin\Debug\netcoreapp3.1\Algoritmo Disjktra.exe
+C:\Users\Elibeth Tapia Cruz\Desktop\Algoritmo Disjktra\Algoritmo Disjktra\bin\Debug\netcoreapp3.1\Algoritmo Disjktra.deps.json
+C:\Users\Elibeth Tapia Cruz\Desktop\Algoritmo Disjktra\Algoritmo Disjktra\bin\Debug\netcoreapp3.1\Algoritmo Disjktra.runtimeconfig.json
+C:\Users\Elibeth Tapia Cruz\Desktop\Algoritmo Disjktra\Algoritmo Disjktra\bin\Debug\netcoreapp3.1\Algoritmo Disjktra.runtimeconfig.dev.json
+C:\Users\Elibeth Tapia Cruz\Desktop\Algoritmo Disjktra\Algoritmo Disjktra\bin\Debug\netcoreapp3.1\Algoritmo Disjktra.dll
+C:\Users\Elibeth Tapia Cruz\Desktop\Algoritmo Disjktra\Algoritmo Disjktra\bin\Debug\netcoreapp3.1\Algoritmo Disjktra.pdb
+C:\Users\Elibeth Tapia Cruz\Desktop\Algoritmo Disjktra\Algoritmo Disjktra\obj\Debug\netcoreapp3.1\Algoritmo Disjktra.csprojAssemblyReference.cache
+C:\Users\Elibeth Tapia Cruz\Desktop\Algoritmo Disjktra\Algoritmo Disjktra\obj\Debug\netcoreapp3.1\Algoritmo Disjktra.AssemblyInfoInputs.cache
+C:\Users\Elibeth Tapia Cruz\Desktop\Algoritmo Disjktra\Algoritmo Disjktra\obj\Debug\netcoreapp3.1\Algoritmo Disjktra.AssemblyInfo.cs
+C:\Users\Elibeth Tapia Cruz\Desktop\Algoritmo Disjktra\Algoritmo Disjktra\obj\Debug\netcoreapp3.1\Algoritmo Disjktra.csproj.CoreCompileInputs.cache
+C:\Users\Elibeth Tapia Cruz\Desktop\Algoritmo Disjktra\Algoritmo Disjktra\obj\Debug\netcoreapp3.1\Algoritmo Disjktra.dll
+C:\Users\Elibeth Tapia Cruz\Desktop\Algoritmo Disjktra\Algoritmo Disjktra\obj\Debug\netcoreapp3.1\Algoritmo Disjktra.pdb
+C:\Users\Elibeth Tapia Cruz\Desktop\Algoritmo Disjktra\Algoritmo Disjktra\obj\Debug\netcoreapp3.1\Algoritmo Disjktra.genruntimeconfig.cache
